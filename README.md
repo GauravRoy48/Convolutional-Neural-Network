@@ -3,6 +3,8 @@
 - Spyder IDE used.
 - Dataset to be found in : https://drive.google.com/drive/folders/1ziKMaravrAXPAdd6FpCSi_uAJYT7bH1v
 - Additional Reading : https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
+- Additional Reading : https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/
+- Additional Reading : https://peterroelants.github.io/posts/cross-entropy-softmax/
 
 ## Installation Notes
 **Keras** can only run on **Python version 3.6** so we need to create a new virtual environment using conda to do that.
