@@ -34,14 +34,14 @@ https://github.com/antoniosehk/keras-tensorflow-windows-installation
 
 If you want to use your **NVIDIA GPU **then run in Anaconda Prompt:
 
-`conda create -n new_env python=3.6 numpy scipy pandas matplotlib statsmodels scikit-learn spyder keras-gpu`
+`conda create -n new_env python=3.6 numpy scipy pandas matplotlib statsmodels scikit-learn pillow spyder keras-gpu`
 
 where `new_env` is the name of the new environment that you create.
 
 
 <br>If you want to use your **CPU** then run in Anaconda Prompt:
 
-`conda create -n new_env python=3.6 numpy scipy pandas matplotlib statsmodels scikit-learn spyder keras`
+`conda create -n new_env python=3.6 numpy scipy pandas matplotlib statsmodels scikit-learn pillow spyder keras`
 
 where `new_env` is the name of the new environment that you create.
 
